@@ -1,16 +1,9 @@
 {
-    "name": "dvelopment/pandoc-php",
-    "type": "library",
-    "description": "Fork of ryakad/pandoc-php for supporting PHP 5.3",
-    "keywords": ["pandoc"],
-    "homepage": "https://github.com/dVelopment/pandoc-php",
+    "name": "ryakad/pandoc-php",
     "license": "MIT",
     "autoload": {
         "psr-0": {
             "Pandoc": "src"
         }
-    },
-    "require": {
-        "php": ">=5.3.3"
     }
 }
